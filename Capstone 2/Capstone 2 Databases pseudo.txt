@@ -1,0 +1,25 @@
+Create a program that can be used by a bookstore clerk. 
+
+
+program should allow the clerk to: 
+
+* add new books to the databse:
+        needs title, quantity, author and id
+
+* update book information
+    allow to change quantity 
+
+* delete books from the database
+     ask user for title, author, or id. if they choose author show all books 
+     by that author ask again which book, relay the information back to them
+     to check if correct book. Ask if they are sure they want to delete the book.
+
+
+* search the databse to find a specific book
+    ask if they want to search by id author or title, if they choose suthor or
+    title if there are multiple options ask which of the options they want.
+
+
+
+Create a class for books id title author quantity 
+change quantity
